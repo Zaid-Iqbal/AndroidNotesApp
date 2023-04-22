@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Android Notes</string>
+    <string name="file_name">Note.json</string>
+    <string name="saved">Note Saved</string>
+    <string name="no_file">File Not Found</string>
+    <string name="ParseError">Error parsing Date in Note constructor</string>
+    <string name="read_file_error">Error reading JSON file</string>
+    <string name="info">App Information</string>
+    <string name="add">Add Note</string>
+    <string name="save">Save Note</string>
+    <string name="Title">Android Notes</string>
+
+
+
+
+
+
+
+</resources>
